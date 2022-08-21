@@ -10,6 +10,39 @@ def calculate_circle(radius):
 def twice_as_big(array):
     pass
 
+# write a function that takes an array and return the biggest number out of all items
+# No nums => return None
+def get_biggest_number(array):
+    pass
+
+# write a function that takes in 2 arrays and returns a new array where it's the 2 arrays concatenated together
+def concat_array(arr1, arr2):
+    pass
+
+# write a function that takes an array and return the absolute dfference between the minimum and the maximum number
+def diff_between_max_and_min(array):
+    pass
+
 # write a function that takes in an array, and returns an array of every SECOND element of the original array
 def every_second_element(array):
+    pass
+
+# write a function that takes a number and returns the next biggest element of the number passed in
+def next_num(number):
+    pass
+
+# write a function that takes an array and returns a new array where every item of the array shifts forward by 1 index
+# e.g:
+# input: [1, 2, 3, 4]
+# output: [4, 1, 2, 3]
+def shift_array_by_one(array):
+    pass
+
+# write a function that takes the number of seconds and return a string that represents that num by hours, minutes and seconrds
+# round nums to 2dp
+# e.g
+# input: 1245, output: 0 hours 20 minutes 45 seconds
+# input: 86400, output: 24 hours 0 minutes 0 seconrds
+# input: 3660, output: 1 hour 1 minute 0 seconds
+def seconds_to_string(number):
     pass
