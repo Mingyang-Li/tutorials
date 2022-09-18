@@ -46,3 +46,25 @@ def shift_array_by_one(array):
 # input: 3660, output: 1 hour 1 minute 0 seconds
 def seconds_to_string(number):
     pass
+
+# Write a function that takes in a price of an item and convert it to 70% off in 2 decimal places
+def discount_item(number):
+    pass
+
+# Write a function that takes in a "dictionary" object and print out every item in that dictionary
+def print_all_items(obj):
+    pass
+
+# Write a function that takes in a number and return an arbitary set of information about a user in a database using the number passed in as an object
+# e.g:
+# input: 2, output: 
+# {
+#   "id": 1,
+#   "username": "user-1"
+#   "email": "user-1@gmail.com",
+#   "password": "hashed_password_1",
+#   "createdAt": "2022-day-1",
+#   "updatedAt": "2022-day-1"
+# }
+def get_user_info(number):
+    pass
