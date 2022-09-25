@@ -57,14 +57,14 @@ def print_all_items(obj):
 
 # Write a function that takes in a number and return an arbitary set of information about a user in a database using the number passed in as an object
 # e.g:
-# input: 2, output: 
+# input: 100, output: 
 # {
-#   "id": 1,
-#   "username": "user-1"
-#   "email": "user-1@gmail.com",
-#   "password": "hashed_password_1",
-#   "createdAt": "2022-day-1",
-#   "updatedAt": "2022-day-1"
+#   "id": 100,
+#   "username": "user-100",
+#   "email": "user-100@gmail.com",
+#   "password": "hashed_password_100",
+#   "createdAt": "2022-day-100",
+#   "updatedAt": "2022-day-100"
 # }
 def get_user_info(number):
     pass
